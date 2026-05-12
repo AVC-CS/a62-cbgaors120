@@ -7,6 +7,7 @@
 using namespace std;
 
 int getRandom(void);
+
 int getClosestMed(int, int, int);
 
 int getRandom(void)
